@@ -1,0 +1,651 @@
+.wonder-ful {
+    margin-left: 94px;
+    margin-top: 45px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    font-feature-settings: 'liga' off;
+    color: #3A3A3A;
+
+}
+
+.para-normal {
+    display: flex;
+    margin-right: 94px;
+    font-size: 15px;
+    font-family: sans-serif;
+    word-wrap: break-word;
+    word-spacing: 28px;
+    position: absolute;
+    top: 40px;
+    left: 1000px;
+    height: 36px;
+    width: 463px;
+}
+
+.background-img {
+    background-image: url(images/Circle\ design.svg);
+    background-repeat: no-repeat;
+    float: right;
+    height: 475px;
+    width: 475px;
+    position: absolute;
+    left: 930px;
+    top: 110px;
+    margin-top: 30px;
+}
+
+.img {
+    float: right;
+    position: absolute;
+    height: 380px;
+    width: 380px;
+    bottom: 50px;
+    left: 50px;
+}
+
+/* Start your journey as influencer */
+.think-in {
+    font-size: 52px;
+    font-weight: bolder;
+    margin-left: 94px;
+    margin-top: 135px;
+    line-height: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* lorem */
+.going-on {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    font-feature-settings: 'liga' off;
+    margin-left: 94px;
+    margin-top: 7px;
+
+}
+
+/* Button */
+.busy-in {
+    margin-left: 94px;
+    margin-top: 15px;
+    width: 168px;
+    height: 40px;
+    background-color: deeppink;
+    border-radius: 17px;
+    color: white;
+    font-weight: bold;
+    border-style: none;
+}
+
+/* Horizontal 1 */
+.hori-zon1 {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 200px;
+
+}
+
+/* Logo */
+.logo-es {
+    margin-left: 240px;
+    word-wrap: break-word;
+    word-spacing: 65px;
+    margin-top: 13px;
+}
+
+/* Horizontal 2 */
+.hori-zon2 {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 25px;
+}
+
+/* Popular collection */
+.inven-tor {
+    text-align: center;
+    margin-top: 100px;
+    font-family: sans-serif;
+}
+
+/* Tripod area */
+.this-site {
+    height: 510px;
+    width: 300px;
+    border: 310px;
+    background-color: whitesmoke;
+    margin-left: 200px;
+    border-radius: 5px;
+    position: absolute;
+    top: 980px;
+    left: 71px;
+}
+
+.look-ing {
+    right: 10px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-left: 25px;
+    width: 250px;
+
+}
+
+.watch-ing {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+.feel-ing {
+    margin-left: 25px;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.play-ing {
+    margin-left: 25px;
+    font-size: 10px;
+    top: 30px;
+    font-weight: bold;
+    color: gold;
+
+}
+
+.digit-as {
+    flex: content;
+    color: black;
+    font-size: 15px;
+
+
+}
+
+.target-in {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+/* Microphone area */
+
+.harmo-ny {
+    height: 510px;
+    width: 300px;
+    border: 310px;
+    background-color: whitesmoke;
+    margin-left: 528px;
+    border-radius: 5px;
+    position: absolute;
+    top: 980px;
+    left: 75px;
+
+}
+
+.ability-us {
+    right: 10px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-left: 25px;
+    width: 250px;
+}
+
+.trouble-in {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+.till-end {
+    margin-left: 25px;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.tribute-as {
+    margin-left: 25px;
+    font-size: 10px;
+    top: 30px;
+    font-weight: bold;
+    color: gold;
+}
+
+.torture-in {
+    flex: content;
+    color: black;
+    font-size: 15px;
+}
+
+.stable-us {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+/* Airpod area */
+.airpod-in {
+    height: 510px;
+    width: 300px;
+    border: 310px;
+    background-color: whitesmoke;
+    margin-left: 528px;
+    border-radius: 5px;
+    position: absolute;
+    top: 980px;
+    left: 412px;
+}
+
+.assure-us {
+    right: 10px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-left: 25px;
+    width: 250px;
+}
+
+.amuse-of {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+.aspire-at {
+    margin-left: 25px;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.ambious-in {
+    margin-left: 25px;
+    font-size: 10px;
+    top: 30px;
+    font-weight: bold;
+    color: gold;
+}
+
+.analog-in {
+    flex: content;
+    color: black;
+    font-size: 15px;
+}
+
+.adore-ab {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+/* Drone area */
+.drone-of {
+    height: 510px;
+    width: 300px;
+    border: 310px;
+    background-color: whitesmoke;
+    margin-left: 528px;
+    border-radius: 5px;
+    position: absolute;
+    top: 1520px;
+    right: 900px;
+
+}
+
+.draw-in {
+    right: 10px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-left: 25px;
+    width: 250px;
+}
+
+.devine-as {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+.device-at {
+    margin-left: 25px;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.devide-on {
+    margin-left: 25px;
+    font-size: 10px;
+    top: 30px;
+    font-weight: bold;
+    color: gold;
+}
+
+.durable-as {
+    flex: content;
+    color: black;
+    font-size: 15px;
+}
+
+.district-of {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+/* Light Setup area */
+.lights-set {
+    height: 510px;
+    width: 300px;
+    border: 310px;
+    background-color: whitesmoke;
+    margin-left: 528px;
+    border-radius: 5px;
+    position: absolute;
+    top: 1520px;
+    left: 75px;
+}
+
+.level-on {
+    right: 10px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-left: 25px;
+    width: 250px;
+}
+
+.list-of {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+.love-in {
+    margin-left: 25px;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.loss-at {
+    margin-left: 25px;
+    font-size: 10px;
+    top: 30px;
+    font-weight: bold;
+    color: gold;
+}
+
+.lack-us {
+    flex: content;
+    color: black;
+    font-size: 15px;
+}
+
+.live-in {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+/* Photoshoot area */
+.photoshoot-set {
+    height: 510px;
+    width: 300px;
+    border: 310px;
+    background-color: whitesmoke;
+    margin-left: 528px;
+    border-radius: 5px;
+    position: absolute;
+    top: 1520px;
+    left: 410px;
+}
+
+.phenomenon-as {
+    right: 10px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-left: 25px;
+    width: 250px;
+}
+
+.problem-of {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+.post-in {
+    margin-left: 25px;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.picture-us {
+    margin-left: 25px;
+    font-size: 10px;
+    top: 30px;
+    font-weight: bold;
+    color: gold;
+}
+
+.play-of {
+    flex: content;
+    color: black;
+    font-size: 15px;
+}
+
+.possible-at {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+/* Vlogging camera area */
+.evil-at {
+    height: 510px;
+    width: 300px;
+    border: 310px;
+    background-color: whitesmoke;
+    margin-left: 263px;
+    border-radius: 5px;
+    position: absolute;
+    top: 2060px;
+
+}
+
+.emergency-of {
+    right: 10px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-left: 25px;
+    width: 250px;
+}
+
+.employ-in {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+.equal-as {
+    margin-left: 25px;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.elegy-of {
+    margin-left: 25px;
+    font-size: 10px;
+    top: 30px;
+    font-weight: bold;
+    color: gold;
+}
+
+.engineer-us {
+    flex: content;
+    color: black;
+    font-size: 15px;
+}
+
+.established-on {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+/* Green area */
+.green-sc {
+    height: 510px;
+    width: 300px;
+    border: 310px;
+    background-color: whitesmoke;
+    margin-left: 300px;
+    border-radius: 5px;
+    position: absolute;
+    top: 2060px;
+    left: 303px;
+}
+
+.global-in {
+    right: 10px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-left: 25px;
+    width: 250px;
+}
+
+.good-of {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+.geneous-in {
+    margin-left: 25px;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.great-as {
+    margin-left: 25px;
+    font-size: 10px;
+    top: 30px;
+    font-weight: bold;
+    color: gold;
+}
+
+.gel-us {
+    flex: content;
+    color: black;
+    font-size: 15px;
+}
+
+.gas-of {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+/* Action Camera area */
+.cooding-in {
+    height: 510px;
+    width: 300px;
+    border: 310px;
+    background-color: whitesmoke;
+    margin-left: 300px;
+    border-radius: 5px;
+    position: absolute;
+    top: 2060px;
+    left: 638px;
+}
+
+.capital-us {
+    right: 10px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-left: 25px;
+    width: 250px;
+}
+
+.capture-of {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+.captain-at {
+    margin-left: 25px;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.campus-on {
+    margin-left: 25px;
+    font-size: 10px;
+    top: 30px;
+    font-weight: bold;
+    color: gold;
+}
+
+.class-as {
+    flex: content;
+    color: black;
+    font-size: 15px;
+}
+
+.college-on {
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+.amazon {
+    position: absolute;
+    top: 2598px;
+    left: 1156px;
+    font-weight: bold;
+    color: deeppink;
+}
+
+.gear {
+    position: absolute;
+    top: 2700px;
+    left: 230px;
+    height: 230px;
+    width: 350px;
+}
+
+.biggest {
+    position: absolute;
+    top: 2690px;
+    left: 660px;
+
+}
+
+.bild {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.beyon {
+    font-weight: 700;
+    font-size: 17px;
+    color: rgb(128, 128, 128);
+}
+
+.bd {
+    height: 40px;
+    width: 120px;
+    font-weight: 700;
+    color: white;
+    background-color: deeppink;
+    border-style: none;
+}
+
+.end {
+    position: absolute;
+    top: 3000px;
+    height: 200px;
+    width: 2000px;
+    color: white;
+    background-color: black;
+
+}
+
+.eve {
+    font-weight: 600;
+    position: absolute;
+    left: 650px;
+}
+
+.elabor {
+    font-weight: 600;
+    position: absolute;
+    left: 650px;
+    top: 50px;
+}
+
+.enan {
+    position: absolute;
+    top: 120px;
+    left: 650px;
+}
